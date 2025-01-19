@@ -1,4 +1,7 @@
-![Screenshot 2025-01-19 202139](https://github.com/user-attachments/assets/87a5a189-c3e7-4458-8864-d64fd6248907)# 🍳 Kitchen Chaos
+## 🍳 Kitchen Chaos
+
+![Screenshot 2025-01-19 202151](https://github.com/user-attachments/assets/c76faf7c-f957-4e57-9762-070bfe8e2ea1)
+
 
 ## ✨ Description
 Welcome to **Kitchen Chaos**, a fast-paced, multiplayer cooking game where players must prepare, cook, and serve dishes within a chaotic kitchen environment! Each level brings unique challenges, from managing time-sensitive orders to navigating hazards in the kitchen.
@@ -26,12 +29,13 @@ Can you handle the heat and keep the kitchen running smoothly?
    ```bash
    git clone https://github.com/yourusername/KitchenChaos.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd KitchenChaos
-   ```
-3. Open the `KitchenChaos.sln` file in Visual Studio.
-4. Build and run the project.
+2. Open the Unity Editor.
+3. In Unity, go to File > Open Project and select the KitchenChaos folder.
+4. Once the project loads, go to File > Build Settings.
+5. Select your target platform (e.g., Windows, Mac, or WebGL).
+6. Click Add Open Scenes to ensure all necessary scenes are included in the build.
+7. Click Build and choose a directory to save the executable.
+8. Run the built executable file to play the game.
 
 ---
 
@@ -39,6 +43,7 @@ Can you handle the heat and keep the kitchen running smoothly?
 - **Movement:** WASD.
 - **Interact:** E.
 - **Interact Alternate:** F.
+![Tutorial](https://github.com/user-attachments/assets/4fa66006-44c1-4595-aadb-3647d4d7ec8f)
 
 ---
 
@@ -55,7 +60,7 @@ Can you handle the heat and keep the kitchen running smoothly?
 ---
 
 ## 🌐 Demo
-
+https://github.com/user-attachments/assets/4e16195f-590b-46aa-9bd0-7dd2d8bdc818
 
 ---
 
