@@ -4,7 +4,7 @@
 
 
 ## ✨ Description
-Welcome to **Kitchen Chaos**, a fast-paced, multiplayer cooking game where players must prepare, cook, and serve dishes within a chaotic kitchen environment! Each level brings unique challenges, from managing time-sensitive orders to navigating hazards in the kitchen.
+Welcome to **Kitchen Chaos**, a fast-paced, cooking game where players must prepare, cook, and serve dishes within a chaotic kitchen environment! The game brings unique challenges, from managing time-sensitive orders to navigating hazards in the kitchen.
 
 Can you handle the heat and keep the kitchen running smoothly?
 
@@ -13,11 +13,12 @@ Can you handle the heat and keep the kitchen running smoothly?
 ## 🔄 Features
 - **🕒 Time Management Challenges:** Complete orders before time runs out.
 - **🍮 Diverse Recipes:** Prepare a variety of dishes, from burgers to desserts.
-- **🍽️ Unique Kitchens:** Navigate through dynamic and chaotic kitchen layouts with obstacles and hazards.
+- **🍽️ Unique Kitchen:** Navigate through dynamic and chaotic kitchen layout with obstacles and hazards.
 
 ---
 
 ## 🔄 Screenshots
+
 ![Screenshot 2025-01-19 202133](https://github.com/user-attachments/assets/7c694428-4a2a-43a7-a34c-0cb7981c3d4f)
 
 ![Screenshot 2025-01-19 202033](https://github.com/user-attachments/assets/65dfa81a-b8d9-4237-8fb0-86f664f3925a)
@@ -43,6 +44,7 @@ Can you handle the heat and keep the kitchen running smoothly?
 - **Movement:** WASD.
 - **Interact:** E.
 - **Interact Alternate:** F.
+
 ![Tutorial](https://github.com/user-attachments/assets/4fa66006-44c1-4595-aadb-3647d4d7ec8f)
 
 ---
@@ -60,7 +62,8 @@ Can you handle the heat and keep the kitchen running smoothly?
 ---
 
 ## 🌐 Demo
-https://github.com/user-attachments/assets/4e16195f-590b-46aa-9bd0-7dd2d8bdc818
+
+https://github.com/user-attachments/assets/1accee37-a859-41d2-a685-dbc3e4f4ee58
 
 ---
 
@@ -80,14 +83,14 @@ Contributions are welcome! If you'd like to contribute:
 ---
 
 ## 🌟 Credits
-- **Game Development:** [Shreyas Joshi]
+- **Game Development:** CodeMonkey (https://www.youtube.com/watch?v=AmGSEH7QcDg&list=WL&index=16)
 - **Special Thanks:** Unity Community and Asset Creators
 
 ---
 
 ## ❓ FAQs
 **Q: Can I play this game on Mac/Linux?**  
-A: Currently, only Windows builds are supported. Mac/Linux support is planned for future updates.
+A: Yes
 
 **Q: How do I report bugs?**  
 A: Please open an issue in the GitHub repository or contact us directly via email.
