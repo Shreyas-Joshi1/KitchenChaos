@@ -67,7 +67,7 @@ https://github.com/user-attachments/assets/1accee37-a859-41d2-a685-dbc3e4f4ee58
 
 ---
 
-## 🚪 Contributing
+## 🚪 Contributions
 Contributions are welcome! If you'd like to contribute:
 1. Fork the repository.
 2. Create a feature branch:
@@ -88,12 +88,10 @@ Contributions are welcome! If you'd like to contribute:
 
 ---
 
-## ❓ FAQs
-**Q: Can I play this game on Mac/Linux?**  
-A: Yes
-
-**Q: How do I report bugs?**  
-A: Please open an issue in the GitHub repository or contact us directly via email.
+## Contact
+For any questions or suggestions, feel free to reach out:
+- Shreyas Joshi
+- shreyasjo17@gmail.com
 
 ---
 
